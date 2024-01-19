@@ -5,11 +5,6 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-/**
- * @author lfy
- * @Description
- * @create 2023-04-11 20:16
- */
 @JacksonXmlRootElement  // 可以写出为xml文档
 @Data
 @AllArgsConstructor
