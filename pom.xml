@@ -23,6 +23,7 @@
     <modules>
         <module>boot03-01-demo</module>
         <module>boot03-02-redis</module>
+        <module>boot03-03-web</module>
     </modules>
 </project>
 
